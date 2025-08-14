@@ -8,6 +8,10 @@ canonifyurls = true
 googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 	# General information
 	# author = "Bruce Eckel"

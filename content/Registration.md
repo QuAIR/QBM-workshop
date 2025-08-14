@@ -1,8 +1,7 @@
 ---
-title: Program
+title: Registration
 weight: 40
 ---
 
 ***********************************
 
-The full program booklet is available a

@@ -40,26 +40,24 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
 [[menu.main]]
-	name   = "Overview"
-	url    = "overview"
-	weight = 10
-
-[[menu.main]]
-  name   = "About 天元数学国际交流中心"
-  url    = "aboutTY"
+  name   = "About"
+  url    = "about"
   weight = 15
 
 [[menu.main]]
-	name   = "Agenda"
-	url    = "agenda"
+	name   = "Program"
+	url    = "program"
 	weight = 40
 
+[[menu.main]]
+	name   = "Registration"
+	url    = "registration"
+	weight = 10
 
 [[menu.main]]
 	name   = "Travel"
 	url    = "travel"
 	weight = 110
-
 
 
 [blackfriday]

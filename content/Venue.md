@@ -1,5 +1,5 @@
 ---
-title: About
+title: Venue
 weight: 90
 ---
 

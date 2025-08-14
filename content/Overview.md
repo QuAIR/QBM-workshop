@@ -1,0 +1,117 @@
+---
+title: Overview
+type: index
+weight: 10
+---
+
+Quantum Information and Optimization (QIOP) workshop (量子信息与优化研讨会) focuses on the intersection of quantum information and optimization theory, two rapidly advancing fields with transformative potential. 
+This workshop aims to foster interdisciplinary collaboration by bringing together experts to explore cutting-edge research on topics such as 
+
+- optimization in quantum information theory
+- optimization in quantum machine learning
+- quantum circuit design, optimization, error correction 
+- quantum algorithms for optimization problems
+- optimization of quantum systems
+- hybrid quantum-classical optimization methods. 
+
+By providing a platform for experts to share their knowledge and insights, the workshop seeks to advance the theoretical foundations of quantum information, address significant challenges, and develop innovative algorithms that leverage the power of both fields.
+
+The full program booklet is available at [here](documents/QIOP-agenda.pdf).
+
+## Location
+
+The workshop will take place at TIANYUAN Center ([天元数学国际交流中心](http://tianyuan.amss.ac.cn/)), Yiliang (宜良), Kunming, Yunnan.
+
+## Dates
+
+**Workshop: 13 – 19 April 2025**
+
+## Organizing Committee
+
+- Xin Wang (Chair, HKUST-GZ)
+- Yun Shang (Co-chair, AMSS, CAS)
+- Bin Gao (Co-chair, AMSS, CAS)
+- Chengkai Zhu (HKUST-GZ)
+- Hongshun Yao (HKUST-GZ)
+
+## Invited Participants
+
+- Dong An (Peking University)
+
+- Ge Bai (HKUST-GZ)
+
+- Yu-Ao Chen (HKUST-GZ)
+
+- Kun Fang (Chinese University of Hong Kong - Shenzhen)
+
+- Li Gao (Wuhan University)
+
+- Minbo Gao (Tsinghua University)
+
+- Naixu Guo (NUS)
+
+- Ruchi Guo (Sichuan University)
+
+- Jing-Song Huang (Chinese University of Hong Kong - Shenzhen)
+
+- Yuling Jiao (Wuhan University)
+
+- Shi Jin (Shanghai Jiao Tong University)
+
+- Zhijian Lai (Peking University)
+
+- Linlin Lao (NUDT)
+
+- Yinan Li (Wuhan University)
+
+- Yingzhou Li (Fudan University)
+
+- Zetong Li (Nanjing University)
+
+- Zexian Li (Poly U)
+
+- Jinguo Liu (HKUST-GZ)
+
+- Xia Liu (HKUST-GZ)
+
+- Chuwen Ma (Shanghai Jiao Tong University)
+
+- Yin Mo (HKUST-GZ)
+
+- Fengning Ou (Nanjing University)
+
+- Renfeng Peng (AMSS, CAS)
+
+- Changpeng Shao (AMSS, CAS)
+
+- Jie Wang (AMSS, CAS)
+
+- Tianyu Wang (Fudan University)
+
+- Wei Wang (AMSS, CAS)
+
+- Bujiao Wu (Sustech)
+
+- Yadong Wu (Shanghai Jiao Tong University)
+
+- Zhengjun Xi (Shanxi Normal University)
+
+- Haidong Yuan (Chinese University of Hong Kong)
+
+- Yuxiang Yang (The University of Hong Kong)
+
+- Yan Yang (AMSS, CAS)
+
+- Penghui Yao (Nanjing University)
+
+- Zhan Yu (NUS)
+
+- Xuanqiang Zhao (HKU)
+
+- Huangjun Zhu (Fudan University)
+
+
+
+## Sponsor
+
+This workshop is mainly sponsored by the NSFC Mathematical Tianyuan Fund, Tianyuan Mathematical Center for International Exchanges workshop project (天元数学国际交流中心研讨会项目).

@@ -1,0 +1,65 @@
+baseurl = "https://www.qiop.site/"
+languageCode = "en-us"
+title = "QIOP 2025, Kunming, April 13-19, 2025"
+theme = "hugo-material-banner"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+	# General information
+	# author = "Bruce Eckel"
+	description = "A Self-Organizing Open-Spaces Unconference"
+
+	logo = "/images/stf-circle-web.png"
+	favicon = "images/stf-favicon-32.png"
+	banner_image = "/images/Banner.png"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+  [params.palette]
+  	primary = "indigo"
+  	accent  = "red"
+
+  [params.font]
+  	text = "Ubuntu"
+  	code = "Ubuntu Mono"
+
+
+[[menu.main]]
+	name   = "Overview"
+	url    = "overview"
+	weight = 10
+
+[[menu.main]]
+  name   = "About 天元数学国际交流中心"
+  url    = "aboutTY"
+  weight = 15
+
+[[menu.main]]
+	name   = "Agenda"
+	url    = "agenda"
+	weight = 40
+
+
+[[menu.main]]
+	name   = "Travel"
+	url    = "travel"
+	weight = 110
+
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true

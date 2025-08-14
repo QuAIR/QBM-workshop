@@ -55,8 +55,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	weight = 10
 
 [[menu.main]]
-	name   = "Travel"
-	url    = "travel"
+	name   = "Venue"
+	url    = "venue"
 	weight = 110
 
 

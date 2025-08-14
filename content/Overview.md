@@ -20,7 +20,7 @@ The full program booklet is available at [here](documents/QIOP-agenda.pdf).
 
 ## Location
 
-The workshop will take place at TIANYUAN Center ([天元数学国际交流中心](http://tianyuan.amss.ac.cn/)), Yiliang (宜良), Kunming, Yunnan.
+The workshop will take place at TIANYUAN Center ([天元数学国际交流中心](https://tianyuan.amss.ac.cn/)), Yiliang (宜良), Kunming, Yunnan.
 
 ## Dates
 

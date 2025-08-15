@@ -7,7 +7,7 @@ weight: 10
 <font size=7>**Welcome to the International Workshop on Quantum Boltzmann Machines (WQBM)**</font>
 
 
-The International Workshop on Quantum Boltzmann Machines (IWQBM) is a premier event for researchers, academics, and industry professionals at the forefront of quantum machine learning. This workshop will provide a focused platform for exploring the latest advancements, theoretical breakthroughs, and practical applications of Quantum Boltzmann Machines (QBMs).
+The International Workshop on Quantum Boltzmann Machines (WQBM) is a premier event for researchers, academics, and industry professionals at the forefront of quantum machine learning. This workshop will provide a focused platform for exploring the latest advancements, theoretical breakthroughs, and practical applications of Quantum Boltzmann Machines (QBMs).
 
 ## About the workshop
 Quantum Boltzmann Machines represent a significant leap forward at the intersection of quantum physics and machine learning. By leveraging quantum phenomena like superposition and entanglement, QBMs offer the potential to solve complex computational problems that are intractable for classical computers. These models are a quantum extension of classical Boltzmann machines, which are fundamental in many machine learning architectures.

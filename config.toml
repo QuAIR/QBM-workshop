@@ -1,6 +1,6 @@
-baseurl = "https://www.qiop.site/"
+baseurl = "https://wqbm.info/"
 languageCode = "en-us"
-title = "IWQBM 2025"
+title = "WQBM 2025"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	description = "A Self-Organizing Open-Spaces Unconference"
 
 	logo = "/images/stf-circle-web.png"
-	favicon = "images/stf-favicon-32.png"
+	favicon = "images/stf-circle-web.png"
 	banner_image = "/images/Banner.png"
 
 	permalink = "#"

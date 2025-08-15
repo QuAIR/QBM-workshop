@@ -40,8 +40,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
 [[menu.main]]
-  name   = "About"
-  url    = "about"
+  name   = "Home"
+  url    = "home"
   weight = 15
 
 [[menu.main]]
@@ -57,7 +57,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
 	name   = "Venue"
 	url    = "venue"
-	weight = 110
+	weight = 10
+
+[[menu.main]]
+	name   = "Contact"
+	url    = "contact"
+	weight = 10
 
 
 [blackfriday]

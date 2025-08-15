@@ -42,7 +42,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
   name   = "Home"
   url    = "home"
-  weight = 15
+  weight = 50
 
 [[menu.main]]
 	name   = "Program"

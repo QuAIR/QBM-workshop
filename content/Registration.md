@@ -1,7 +1,4 @@
 ---
 title: Registration
-weight: 40
+weight: 10
 ---
-
-***********************************
-

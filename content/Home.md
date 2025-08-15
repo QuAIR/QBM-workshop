@@ -1,7 +1,7 @@
 ---
 title: Home
 type: index
-weight: 10
+weight: 50
 ---
 
 <font size=7>**Welcome to the International Workshop on Quantum Boltzmann Machines (IWQBM)**</font>

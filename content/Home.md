@@ -33,5 +33,5 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 
 ## Organizing committee
 
-- Mark Wilde (Cornell University)
+- Mark M. Wilde (Cornell University)
 - Xin Wang (The Hong Kong University of Science and Technology (Guangzhou))

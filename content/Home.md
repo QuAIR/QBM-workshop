@@ -28,3 +28,10 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 
 - Alice (++ University)
 - Bob (++ University)
+
+
+
+
+## Organizing committee
+
+- Mark Wilde (Cornell University)

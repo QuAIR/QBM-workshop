@@ -1,6 +1,6 @@
 ---
 title: Contact
-weight: 10
+weight: 100
 ---
 
 For any further information, please reach us at:

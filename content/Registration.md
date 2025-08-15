@@ -1,4 +1,4 @@
 ---
 title: Registration
-weight: 10
+weight: 30
 ---

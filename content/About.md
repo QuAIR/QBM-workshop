@@ -4,9 +4,8 @@ type: index
 weight: 10
 ---
 
-# Welcome to the International Workshop on Quantum Boltzmann Machines (IWQBM)
+**Welcome to the International Workshop on Quantum Boltzmann Machines (IWQBM)**
 
-** Join us for a deep dive into the fascinating world of Quantum Boltzmann Machines! **
 
 The International Workshop on Quantum Boltzmann Machines (IWQBM) is a premier event for researchers, academics, and industry professionals at the forefront of quantum machine learning. This workshop will provide a focused platform for exploring the latest advancements, theoretical breakthroughs, and practical applications of Quantum Boltzmann Machines (QBMs).
 

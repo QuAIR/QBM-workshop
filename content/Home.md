@@ -18,9 +18,9 @@ The primary objective of this workshop is to foster collaboration and discussion
 The workshop will cover a broad range of topics related to Quantum Boltzmann Machines, including but not limited to:
 
 - theoretical Foundations of QBMs
-- training and Optimization
+- training and optimization
 - applications of QBMs
-- hardware Implementation
+- hardware implementation
 
 
 
@@ -31,7 +31,7 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 
 
 
-
 ## Organizing committee
 
 - Mark Wilde (Cornell University)
+- Xin Wang (The Hong Kong University of Science and Technology (Guangzhou))

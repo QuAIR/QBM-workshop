@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 	logo = "/images/stf-circle-web.png"
 	favicon = "images/stf-circle-web.png"
-	banner_image = "/images/Banner.png"
+	banner_image = "/images/Banner1.png"
 
 	permalink = "#"
 

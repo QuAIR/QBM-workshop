@@ -1,6 +1,6 @@
 baseurl = "https://wqbm.info/"
 languageCode = "en-us"
-title = "WQBM 2025"
+title = "IW-QBM 2025"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true

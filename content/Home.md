@@ -18,7 +18,7 @@ The primary objective of this workshop is to foster collaboration and discussion
 ## Topics of interest
 The workshop will cover a broad range of topics related to Quantum Boltzmann Machines, including but not limited to:
 
-- theoretical Foundations of QBMs
+- theoretical foundations of QBMs
 - training and optimization
 - applications of QBMs
 - hardware implementation

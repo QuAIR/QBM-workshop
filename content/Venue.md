@@ -4,5 +4,5 @@ weight: 40
 ---
 
 
-The workshop will be held in +++.
+This is an online-only workshop.
 

@@ -27,8 +27,13 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 
 ## Invited speakers
 
-- Alice (++ University)
-- Bob (++ University)
+- Eric R. Anschuetz, California Institute of Technology
+- Jiaqing Jiang, Simons Institute
+- Nana Liu, Shanghai Jiao Tong University
+- Krishnakumar Sabapathy, Fujitsu Research (India)
+- Cenk Tuysuz, CERN
+- Adit Vishnu, Indian Institute of Science
+- Nathan Wiebe, University of Toronto
 
 
 

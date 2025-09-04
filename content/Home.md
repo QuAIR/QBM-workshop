@@ -33,6 +33,8 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 ## Invited speakers
 
 - Eric R. Anschuetz (California Institute of Technology)
+- Dongling Deng (Tsinghua University)
+- Yuxuan Du (Nanyang Technological University)
 - Masahito Hayashi (The Chinese University of Hong Kong, Shenzhen)
 - Jiaqing Jiang (Simons Institute)
 - Nana Liu (Shanghai Jiao Tong University)

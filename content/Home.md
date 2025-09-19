@@ -32,12 +32,14 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 
 ## Invited speakers
 
+- Mohammad Amin (D-Wave)
 - Eric R. Anschuetz (California Institute of Technology)
 - Dongling Deng (Tsinghua University)
 - Yuxuan Du (Nanyang Technological University)
 - Masahito Hayashi (The Chinese University of Hong Kong, Shenzhen)
 - Jiaqing Jiang (Simons Institute)
 - Nana Liu (Shanghai Jiao Tong University)
+- Dhrumil Patel (Cornell University)
 - Krishnakumar Sabapathy (Fujitsu Research (India))
 - Cenk Tüysüz (CERN)
 - Adit Vishnu (Indian Institute of Science)

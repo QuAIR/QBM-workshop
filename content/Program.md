@@ -17,7 +17,7 @@ Talk 4 (30min)
 ---
 
 ## December 8, 2025 (Monday) 8pm - 10pm Ithaca, NY, USA
-## December 8, 2025 (Monday) 8pm - 10pm Guangzhou, Guangdong Province, China
+## December 9, 2025 (Tuesday) 8am - 10am Guangzhou, Guangdong Province, China
 
 Talk 5 (30min)
 
@@ -29,8 +29,8 @@ Talk 8 (30min)
 
 ---
 
-## December 8, 2025 (Monday) 8pm - 10pm Ithaca, NY, USA
-## December 9, 2025 (Tuesday) 8am - 10am Guangzhou, Guangdong Province, China
+## December 8, 2025 (Tuesday) 8am - 10am Ithaca, NY, USA
+## December 9, 2025 (Tuesday) 8pm - 10pm Guangzhou, Guangdong Province, China
 
 Talk 9 (30min)
 
@@ -42,8 +42,8 @@ Talk 12 (30min)
 
 ---
 
-## December 9, 2025 (Tuesday) 8am - 10am Ithaca, NY, USA
-## December 9, 2025 (Tuesday) 8pm - 10pm Guangzhou, Guangdong Province, China
+## December 9, 2025 (Tuesday) 8pm - 10pm Ithaca, NY, USA
+## December 10, 2025 (Wednesday) 8am - 10am Guangzhou, Guangdong Province, China
 
 Talk 13 (30min)
 
@@ -55,8 +55,8 @@ Talk 16 (30min)
 
 ---
 
-## December 9, 2025 (Tuesday) 8pm - 10pm Ithaca, NY, USA
-## December 10, 2025 (Wednesday) 8am - 10am Guangzhou, Guangdong Province, China
+## December 10, 2025 (Wednesday) 8am - 10am Ithaca, NY, USA
+## December 10, 2025 (Wednesday) 8pm - 10pm Guangzhou, Guangdong Province, China
 
 Talk 17 (30min)
 
@@ -68,8 +68,8 @@ Talk 20 (30min)
 
 ---
 
-## December 10, 2025 (Wednesday) 8am - 10am Ithaca, NY, USA
-## December 10, 2025 (Wednesday) 8pm - 10pm Guangzhou, Guangdong Province, China
+## December 10, 2025 (Wednesday) 8pm - 10pm Ithaca, NY, USA
+## December 11, 2025 (Thursday) 8am - 10am Guangzhou, Guangdong Province, China
 Talk 21 (30min)
 
 Talk 22 (30min)

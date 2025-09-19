@@ -29,7 +29,7 @@ Talk 8 (30min)
 
 ---
 
-## December 8, 2025 (Tuesday) 8am - 10am Ithaca, NY, USA
+## December 9, 2025 (Tuesday) 8am - 10am Ithaca, NY, USA
 ## December 9, 2025 (Tuesday) 8pm - 10pm Guangzhou, Guangdong Province, China
 
 Talk 9 (30min)

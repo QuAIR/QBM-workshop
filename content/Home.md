@@ -46,6 +46,7 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Cenk Tüysüz (CERN)
 - Adit Vishnu (Indian Institute of Science)
 - Nathan Wiebe (University of Toronto)
+- Yadong Wu (Shanghai Jiao Tong University)
 - Christa Zoufal (IBM Quantum)
 
 

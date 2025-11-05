@@ -46,6 +46,7 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Adit Vishnu (Indian Institute of Science)
 - Nathan Wiebe (University of Toronto)
 - Christa Zoufal (IBM Quantum)
+- Maria Demidik (The Cyprus Institute)
 
 
 ## Organizing committee

@@ -38,6 +38,7 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Ángela Capel (University of Cambridge)
 - Dongling Deng (Tsinghua University)
 - Yuxuan Du (Nanyang Technological University)
+- Maria Demidik (The Cyprus Institute)
 - Masahito Hayashi (The Chinese University of Hong Kong, Shenzhen)
 - Jiaqing Jiang (Simons Institute)
 - Tongyang Li (Peking University)
@@ -48,7 +49,6 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Nathan Wiebe (University of Toronto)
 - Yadong Wu (Shanghai Jiao Tong University)
 - Christa Zoufal (IBM Quantum)
-- Maria Demidik (The Cyprus Institute)
 
 
 ## Organizing committee

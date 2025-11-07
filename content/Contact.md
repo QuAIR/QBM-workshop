@@ -5,4 +5,5 @@ weight: 100
 
 For any further information, please reach us at:
 
-- ++++ @gmail.com
+- mwilde@gmail.com
+- wangxinfelix@gmail.com

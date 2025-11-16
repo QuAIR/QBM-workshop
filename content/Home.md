@@ -49,6 +49,7 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Nathan Wiebe (University of Toronto)
 - Yadong Wu (Shanghai Jiao Tong University)
 - Christa Zoufal (IBM Quantum)
+- Qi Zhao (The University of Hong Kong)
 
 
 ## Organizing committee

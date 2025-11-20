@@ -3,7 +3,7 @@ title: Program
 weight: 20
 ---
 
-The book of abstracts is available [here](documents/IWQBM2025_booklet.pdf).
+The book of abstracts is available [here](/documents/IWQBM2025_booklet.pdf).
 
 ---
 

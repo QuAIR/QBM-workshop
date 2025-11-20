@@ -5,6 +5,7 @@ weight: 20
 
 The book of abstracts is available [here](documents/IWQBM2025_booklet.pdf).
 
+---
 
 ## December 8, 2025 (Monday) 8am - 10am Ithaca, NY, USA
 ## December 8, 2025 (Monday) 9pm - 11pm Guangzhou, Guangdong Province, China

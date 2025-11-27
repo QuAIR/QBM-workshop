@@ -41,6 +41,8 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Maria Demidik (The Cyprus Institute)
 - Masahito Hayashi (The Chinese University of Hong Kong, Shenzhen)
 - Jiaqing Jiang (Simons Institute)
+- Mingrui Jing (The Hong Kong University of Science and Technology (Guangzhou))
+- Sabre Kais (North Carolina State University)
 - Tongyang Li (Peking University)
 - Nana Liu (Shanghai Jiao Tong University)
 - Dhrumil Patel (Cornell University)
@@ -50,6 +52,7 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Yadong Wu (Shanghai Jiao Tong University)
 - Christa Zoufal (IBM Quantum)
 - Qi Zhao (The University of Hong Kong)
+- Lei Zhang (The Hong Kong University of Science and Technology (Guangzhou))
 
 
 ## Organizing committee

@@ -16,7 +16,7 @@ Christa Zoufal (30min)
 
 Dongling Deng (30min)
 
-Yadong Wu (30min)
+Ruchira V Bhat (30min)
 
 ---
 
@@ -29,7 +29,7 @@ Adit Vishnu (30min)
 
 Mohammad Amin (30min)
 
-Ruchira V Bhat (30min)
+Yadong Wu (30min)
 
 ---
 

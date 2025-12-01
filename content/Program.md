@@ -14,9 +14,9 @@ Nathan Wiebe (30min)
 
 Christa Zoufal (30min)
 
-Yadong Wu (30min)
-
 Dongling Deng (30min)
+
+Yadong Wu (30min)
 
 ---
 

@@ -19,7 +19,6 @@ Quantum Boltzmann Machines represent a leap forward at the intersection of quant
 
 The primary objective of this workshop is to foster collaboration and discussion among a diverse group of scientists and engineers. We will delve into the core challenges and opportunities in the field, from developing efficient training algorithms to implementing QBMs on near-term quantum devices.
 
-
 ## Topics of interest
 The workshop will cover a broad range of topics related to Quantum Boltzmann Machines, including but not limited to:
 
@@ -28,12 +27,11 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - applications of QBMs
 - hardware implementation
 
-
-
 ## Invited speakers
 
 - Mohammad Amin (D-Wave)
 - Eric R. Anschuetz (California Institute of Technology)
+- Ge Bai (The Hong Kong University of Science and Technology (Guangzhou))
 - Ruchira V. Bhat (Fujitsu Research (India))
 - Ángela Capel (University of Cambridge)
 - Dongling Deng (Tsinghua University)
@@ -46,6 +44,7 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Tongyang Li (Peking University)
 - Nana Liu (Shanghai Jiao Tong University)
 - Dhrumil Patel (Cornell University)
+- Yixian Qiu (National University of Singapore)
 - Cenk Tüysüz (CERN)
 - Adit Vishnu (Indian Institute of Science)
 - Nathan Wiebe (University of Toronto)
@@ -53,7 +52,6 @@ The workshop will cover a broad range of topics related to Quantum Boltzmann Mac
 - Christa Zoufal (IBM Quantum)
 - Qi Zhao (The University of Hong Kong)
 - Lei Zhang (The Hong Kong University of Science and Technology (Guangzhou))
-
 
 ## Organizing committee
 

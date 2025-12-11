@@ -60,13 +60,13 @@ Discussion (1 hour)
 ## December 9, 2025 (Tuesday) 8pm - 11pm Ithaca, NY, USA
 ## December 10, 2025 (Wednesday) 9am - 12am Guangzhou, Guangdong Province, China
 
-Tongyang Li (30min)
+Tongyang Li (30min) [[slides]](/documents/TongyangLi_QCircuitBench.pdf)
 
 Eric R. Anschuetz (30min)
 
 Jiaqiang Jiang (30min) [[slides]](/documents/jiaqing_QBoltzman.pdf)
 
-Lei Zhang (30min) [slides](/documents/leizhang_QITE.pdf)
+Lei Zhang (30min) [[slides]](/documents/leizhang_QITE.pdf)
 
 Discussion (1 hour)
 

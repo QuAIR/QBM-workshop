@@ -64,9 +64,9 @@ Tongyang Li (30min)
 
 Eric R. Anschuetz (30min)
 
-Jiaqiang Jiang (30min)
+Jiaqiang Jiang (30min) [slides](/documents/jiaqing_QBoltzman.pdf)
 
-Lei Zhang (30min) [slides](/documents/QITE.pdf).
+Lei Zhang (30min) [slides](/documents/leizhang_QITE.pdf)
 
 Discussion (1 hour)
 

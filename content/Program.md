@@ -66,7 +66,7 @@ Eric R. Anschuetz (30min)
 
 Jiaqiang Jiang (30min)
 
-Lei Zhang (30min)
+Lei Zhang (30min) [slides](/documents/QITE.pdf).
 
 Discussion (1 hour)
 

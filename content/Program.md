@@ -75,7 +75,7 @@ Discussion (1 hour)
 ## December 10, 2025 (Wednesday) 8am - 11am Ithaca, NY, USA
 ## December 10, 2025 (Wednesday) 9pm - 12pm Guangzhou, Guangdong Province, China
 
-Mingrui Jing (30min)
+Mingrui Jing (30min) [[slides]](/documents/Mingrui_Jing_QRNN.pdf)
 
 Ángela Capel (30min)
 

@@ -17,7 +17,7 @@ Introductory Remarks
 
 Nathan Wiebe (30min)
 
-Christa Zoufal (30min)
+Christa Zoufal (30min) [[slides]](/documents/Christa_Zoufal_DPQC.pdf)
 
 Dongling Deng (30min)
 
@@ -30,7 +30,7 @@ Discussion (1 hour)
 ## December 8, 2025 (Monday) 8pm - 11pm Ithaca, NY, USA
 ## December 9, 2025 (Tuesday) 9am - 12am Guangzhou, Guangdong Province, China
 
-Masahito Hayashi (30min)
+Masahito Hayashi (30min) [[slides]](/documents/Masahito_Hayashi_emQBM.pdf)
 
 Adit Vishnu (30min)
 
@@ -45,7 +45,7 @@ Discussion (1 hour)
 ## December 9, 2025 (Tuesday) 8am - 11am Ithaca, NY, USA
 ## December 9, 2025 (Tuesday) 9pm - 12pm Guangzhou, Guangdong Province, China
 
-Sabre Kais (30min)
+Sabre Kais (30min) [[slides]](/documents/Sabre_Kais_QBM.pdf)
 
 Cenk Tüysüz (30min)
 
@@ -90,7 +90,7 @@ Discussion (1 hour)
 ## December 10, 2025 (Wednesday) 8pm - 11pm Ithaca, NY, USA
 ## December 11, 2025 (Thursday) 9am - 12am Guangzhou, Guangdong Province, China
 
-Yuxuan Du (30min)
+Yuxuan Du (30min) [[slides]](/documents/Yuxuan_Du_ML_for_QC.pdf)
 
 Ge Bai (30 min)
 

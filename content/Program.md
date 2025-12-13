@@ -62,7 +62,7 @@ Discussion (1 hour)
 
 Tongyang Li (30min) [[slides]](/documents/TongyangLi_QCircuitBench.pdf)
 
-Eric R. Anschuetz (30min)
+Eric R. Anschuetz (30min) [[slides]](/documents/Eric_R_Anschuetz_QBM.pdf)
 
 Jiaqiang Jiang (30min) [[slides]](/documents/jiaqing_QBoltzman.pdf)
 

@@ -32,7 +32,7 @@ Discussion (1 hour)
 
 Masahito Hayashi (30min) [[slides]](/documents/Masahito_Hayashi_emQBM.pdf)
 
-Adit Vishnu (30min)
+Adit Vishnu (30min) [[slides]](/documents/Adit_Vishnu_IWQBM.pdf)
 
 Mohammad Amin (30min)
 

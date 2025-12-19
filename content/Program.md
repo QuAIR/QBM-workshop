@@ -79,7 +79,7 @@ Mingrui Jing (30min) [[slides]](/documents/Mingrui_Jing_QRNN.pdf)
 
 Ángela Capel (30min)
 
-Nana Liu (30min)
+Nana Liu (30min) [[slides]](/documents/NanaLiu_QBM.pdf)
 
 Dhrumil Patel (30min)
 

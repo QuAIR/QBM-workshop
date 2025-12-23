@@ -77,7 +77,7 @@ Discussion (1 hour)
 
 Mingrui Jing (30min) [[slides]](/documents/Mingrui_Jing_QRNN.pdf)
 
-Ángela Capel (30min)
+Ángela Capel (30min) [[slides]](/documents/Capel.pdf)
 
 Nana Liu (30min) [[slides]](/documents/NanaLiu_QBM.pdf)
 

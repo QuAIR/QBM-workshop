@@ -92,7 +92,7 @@ Discussion (1 hour)
 
 Yuxuan Du (30min) [[slides]](/documents/Yuxuan_Du_ML_for_QC.pdf)
 
-Ge Bai (30 min)
+Ge Bai (30 min) [[video]](https://www.youtube.com/watch?v=Q3MDt-ZQ8uY&t=1566s)
 
 Yixian Qiu (30 min)
 
